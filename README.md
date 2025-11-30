@@ -5,6 +5,10 @@ A modern web application that provides AI-powered financial analysis through int
 <video width="600" controls>
   <source src="https://raw.githubusercontent.com/ghandle18/FinDeep/main/media/277 Video - Final.mp4" type="video/mp4">
 </video>
+<video width="600" controls>
+  <source src="https://raw.githubusercontent.com/ghandle18/FinDeep/main/media/277%20Video%20-%20Final.mp4" type="video/mp4">
+</video>
+
 
 ## 🚀 Quick Start
 
