@@ -4,6 +4,8 @@
   <source src="https://raw.githubusercontent.com/ghandle18/FinDeep/main/=ademo.mp4" type="video/mp4">
 </video>
 
+[![DEMO VIDEO](https://img.youtube.com/vi/7os9uPowg2Q/0.jpg)](https://www.youtube.com/watch?v=7os9uPowg2Q)
+
 A modern web application that provides AI-powered financial analysis through intelligent chat interface. Built with React frontend and integrated with FinDeep AI backend.
 
 ## 🚀 Quick Start
