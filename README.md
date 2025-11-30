@@ -1,6 +1,11 @@
 # FinDeep - AI Financial Analysis Platform
 
 A modern web application that provides AI-powered financial analysis through intelligent chat interface. Built with React frontend and integrated with FinDeep AI backend.
+### DEMO VIDEO:
+
+<video width="600" controls>
+  <source src="https://raw.githubusercontent.com/USERNAME/REPO/main/media/yourvideo.mp4" type="video/mp4">
+</video>
 
 ## 🚀 Quick Start
 
